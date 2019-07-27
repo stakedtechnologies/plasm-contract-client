@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/register": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@polkadot/dev": "^0.29.1",
+    "@polkadot/ts": "^0.1.62",
+    "gh-pages": "^2.0.1",
+    "lerna": "^3.16.4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cli": "node -r dotenv/config ./src/index.js"
+  },
+  "author": "Task Ohmori <task@staked.co.jp>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "enquirer": "^2.3.1"
+  },
+  "devDependencies": {}
+}
